@@ -4,6 +4,8 @@
 
 This example highlights in a simple way how we can employ and deploy the Quantum Simulation Code from Rigetti to have some fun and create a magic 8 ball. You might seen them, there is a photo below, its a sphere that resembles the black 8 ball in pool. Shaking the ball, randomizes and highlights one of the surfaces (typically 20) with some text on it. The use case is to crack the stalemate when making decisions. Here we will use the quantum equivalent of shaking to perform the randomization.  
 
+![Magic 8 Ball](8ball.jpg "Logo Title Text 1")
+
 # How it works
 
 Create a number of qubits, the exact number of qubits will be dependent upon the number of options. Here we show the canonical existence of a 20 sided Magic 8 Ball. 
