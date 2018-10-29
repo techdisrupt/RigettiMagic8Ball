@@ -4,7 +4,6 @@ __author__ = "Brett Donovan"
 __copyright__ = "Copyright 2018"
 __license__ = "MIT"
 __version__ = "1.0.1"
-__maintainer__ = "Rob Knight"
 __status__ = "Production"
 
 
